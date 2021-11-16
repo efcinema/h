@@ -1,6 +1,6 @@
 # (c) @SpEcHIDe
 # (c) @AlbertEinsteinTG
-# (c) @Muhammed_RK, @Mo_Tech_YT , @Mo_Tech_Group, @MT_Botz
+# (c) @yaduvind, @yaduvind , @efcinema, @efcinema
 # Copyright permission under MIT License
 # All rights reserved by PR0FESS0R-99
 # License -> https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE
@@ -80,7 +80,7 @@ async def start(bot, message):
         caption=Translation.START_TEXT.format(
                 message.from_user.mention, DEV_USERNAME),
         reply_markup=InlineKeyboardMarkup([[
-              InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/donlee_robot?startgroup=true')
+              InlineKeyboardButton('❌NOT WORKING YOUR GROUP ❌', url='http://t.me/donlee_robot?startgroup=true')
               ],[
               InlineKeyboardButton(GROUP, url=HAAAAAAAAA),
               InlineKeyboardButton(CHANNEL, url=CHANNEL_LINK)
@@ -142,7 +142,7 @@ async def about(bot, message):
                              ),
                          InlineKeyboardButton
                              (
-                                 "Dev 🤠", callback_data="devmuhammed"
+                                 "Dev 🤠", callback_data="devyaduvind"
                              )
                     ],
                     [
@@ -171,23 +171,23 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (                                 
-                                 "📣Group", url="t.me/mo_tech_group"
+                                 "📣Group", url="t.me/efcinema"
                              ),
                          InlineKeyboardButton
                              (
-                                 "📢Channel", url="t.me/mo_tech_yt"
+                                 "📢Channel", url="t.me/efmovieschannel"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
+                                 "😟 Build a New Bot 😟", url="https://youtube.com/channel/UC_6YRaHjPdQ8_12V1UPwnxQ"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
+                                 "💥Subscribe youtube Channel💥", url="https://youtube.com/channel/UC_6YRaHjPdQ8_12V1UPwnxQ"
                              )
                     ],
                     [
